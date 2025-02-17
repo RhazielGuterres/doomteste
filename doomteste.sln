@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "doomteste", "doomteste\doomteste.csproj", "{8F0C5A6D-821B-404E-92C6-FCBAC82C1DEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F0C5A6D-821B-404E-92C6-FCBAC82C1DEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F0C5A6D-821B-404E-92C6-FCBAC82C1DEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F0C5A6D-821B-404E-92C6-FCBAC82C1DEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F0C5A6D-821B-404E-92C6-FCBAC82C1DEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FAFAD92E-8297-4CC2-BA08-15E6F29ADD8A}
+	EndGlobalSection
+EndGlobal
